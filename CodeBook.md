@@ -12,9 +12,12 @@ Activity_Level: one of 6 activities performed(STANDING, SITTING, LAYING, WALKING
 
 data variables:
 
-angle: Angle between to vectors 
+angle: Angle between to vectors
+ 
 t():time domain signals
+
 f():frequency domain signals
+
 mean(): Mean value
 std(): Standard deviation
 angle(): Angle between to vectors.
