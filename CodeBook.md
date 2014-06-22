@@ -19,17 +19,27 @@ t():time domain signals
 f():frequency domain signals
 
 mean(): Mean value
+
 std(): Standard deviation
+
 angle(): Angle between to vectors.
-meanFreq: Weighted average of the frequency components to obtain a mean 
-frequency 
+
+meanFreq: Weighted average of the frequency components to obtain a mean frequency
+ 
 X,Y,Z:the axis of the signal
+
 Gyr:Gryoscope signal
+
 Body:measurement of Body movement
+
 Jerk:the body linear acceleration and angular velocity were derived in time
+
 Gravity:measurement of Gravity
+
 Mag:the magnitude of these three-dimensional signals were calculated using the Euclidean norm
+
 Acc:Acceleration signal
+
 
 
 List of variables
