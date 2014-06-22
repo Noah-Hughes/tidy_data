@@ -30,11 +30,14 @@ Acc:Acceleration signal
 
 
 List of variables
+
 id variables:
+
 "1" "Subject"
 "2" "Activity_Label"
 
-data variables(mean of the UCI Dataset)
+data variables(mean of the UCI Dataset):
+
 "3" "tBodyAcc.mean...X"
 "4" "tBodyAcc.mean...Y"
 "5" "tBodyAcc.mean...Z"
