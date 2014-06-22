@@ -1,8 +1,14 @@
-Guide to decifering variables
+
+Run_analysis.R Creates "tidydata.txt", an independent tidy data set with the average of each variable for each activity and each subject.  Subject and Activity Level are the id variables.  The data variables(79 total) are the mean for each variable having to do with mean or standard deviation for each unique Subject and Activity_Level combination.
+
+
+
+
+Guide to variables
 
 id variables:
 Subject: The number 1-30 of the subject who did the experiment
-Activity: one of 6 activities performed(STANDING, SITTING, LAYING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS) 
+Activity_Level: one of 6 activities performed(STANDING, SITTING, LAYING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS) 
 
 data variables:
 
